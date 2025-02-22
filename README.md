@@ -17,7 +17,7 @@ This library provides low-level memory manipulation functionalities for x86 appl
 Clone the repository and include the library in your C# project:
 
 ```sh
-$ git clone https://github.com/your-repo/memory-manager-x86.git
+$ git clone [https://github.com/your-repo/memory-manager-x86.git](https://github.com/TechMecca/Basic-Memory-Library.git)
 ```
 
 Add the necessary references to your C# project and compile it.
